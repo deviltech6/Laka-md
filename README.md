@@ -1,2 +1,0 @@
-# Laka-md
-A SIMPLE WHATSAPP STATUS BOT 
